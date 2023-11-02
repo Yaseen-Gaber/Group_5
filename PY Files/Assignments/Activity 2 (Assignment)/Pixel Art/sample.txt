@@ -1,3 +1,0 @@
-Sample, GCIS Git
-|
-Git 
