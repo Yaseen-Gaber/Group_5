@@ -1,0 +1,2 @@
+1. Upload any in-class coding to Git-Hub
+2. This folder "Python" contains all .py files for Python Coding
