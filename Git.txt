@@ -1,1 +1,3 @@
-This local repository is ONLY for practicing "git checkout" and "git restore" commands
+This local repository is ONLY/MAINLY for practicing "git checkout" and "git restore" commands
+
+~ the "git restore" command is used to revert back the recently made changes
