@@ -10,6 +10,8 @@ Group 5:
 
 Github Links:
 
+https://github.com/MohammadAlSubaiei/GCIS/upload/master
+https://github.com/naqiyahathiari/group.git
 (https://github.com/Yaseen-Gaber/Group_5.git)
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
