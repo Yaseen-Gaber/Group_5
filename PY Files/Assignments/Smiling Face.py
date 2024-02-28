@@ -4,7 +4,7 @@ screen = t.Screen()
 screen.bgcolor("white")
 
 pen = t.Turtle()
-pen.speed(1)  # Set the drawing speed
+pen.speed(0)  # Set the drawing speed
 
 def draw_eye(x, y):
     pen.penup()
@@ -37,7 +37,7 @@ def draw_face_outline():
     pen.goto(-20, -100)  # Adjusted the starting position
     pen.pendown()
     pen.width(2)
-    pen.color("black")
+    pen.color("yellow")
     pen.circle(100)
 
 draw_face_outline()
